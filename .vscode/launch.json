@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Streamlit: Run app",
+      "type": "python",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "${workspaceFolder}/app.py"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Streamlit App",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit.web.cli",
+      "args": [
+        "run",
+        "app.py",
+        "--server.headless",
+        "true"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}

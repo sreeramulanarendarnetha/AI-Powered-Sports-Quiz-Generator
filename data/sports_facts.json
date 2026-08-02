@@ -1,0 +1,50 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "The first official cricket Test match was played in 1877 between Australia and England at the Melbourne Cricket Ground. Australia won by 45 runs."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "India won its first Cricket World Cup in 1983 under the captaincy of Kapil Dev."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Sachin Tendulkar is the first player to score 100 international centuries."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup was first held in 1930 in Uruguay."
+  },
+  {
+    "sport": "Football",
+    "fact": "Brazil has won the FIFA World Cup five times."
+  },
+  {
+    "sport": "Football",
+    "fact": "Lionel Messi led Argentina to the FIFA World Cup title in 2022."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "The Thomas Cup is the world's premier men's team badminton championship."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "India won its first Thomas Cup title in 2022."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "A badminton match is played to 21 points in each game."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Wimbledon is the oldest tennis tournament in the world."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "There are four Grand Slam tournaments in tennis."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Roger Federer won eight Wimbledon singles titles."
+  }
+]
