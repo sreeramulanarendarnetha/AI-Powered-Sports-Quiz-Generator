@@ -338,26 +338,5 @@ OPENAI_API_KEY=your_api_key
 Check your internet connection or retry the DuckDuckGo search.
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Push to your branch.
-5. Open a Pull Request.
-
----
-
-## 📄 License
-
-This project is intended for educational and learning purposes. Add an open-source license (such as the MIT License) if you plan to distribute or publish it.
-
----
-
-## 👨‍💻 Author
-
-Developed as part of the **Startupbox AI-Powered Sports Quiz Generation Agent Assignment** using Python, Streamlit, ChromaDB, DuckDuckGo Search, and OpenAI/Gemini.
+, Streamlit, ChromaDB, DuckDuckGo Search, and OpenAI/Gemini.
 "# AI-Powered-Sports-Quiz-Generator" 
