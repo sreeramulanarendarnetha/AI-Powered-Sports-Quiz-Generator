@@ -338,5 +338,3 @@ OPENAI_API_KEY=your_api_key
 Check your internet connection or retry the DuckDuckGo search.
 
 ---
-, Streamlit, ChromaDB, DuckDuckGo Search, and OpenAI/Gemini.
-"# AI-Powered-Sports-Quiz-Generator" 
